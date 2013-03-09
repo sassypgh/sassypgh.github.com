@@ -65,3 +65,17 @@ Footer
 ## Design
 
 - chill, flat, responsive, single column
+- big bold fonts
+- steeltown v. miami vice
+
+## Technical
+
+- no images (aside from meetup arvhive)
+- SVGs for social icons
+- fidvids.js
+- bring in guide pieces through post template
+
+## Timeline
+
+- comps and copy
+- up by the next meetup
