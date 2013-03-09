@@ -19,7 +19,7 @@ sassypgh.github.com
         
         Meetups are **6:30 to 8pm** on the **first Wednesday of every month**. Get ready for:
         - One twenty minute presentation. That's right, 20 minutes. Quality over quantity. You will leave knowing one thing better than you did when you got here.
-        - A whole bunch of chatting. About the presentation, awesome things we're building, code conundrums, and/or the fundamental nature of the web. It's a damn [http://en.wikipedia.org/wiki/Salon_(gathering)](17th century salon) up in hurrr.
+        - A whole bunch of chatting. About the presentation, awesome things we're building, code conundrums, and/or the fundamental nature of the web. It's a damn [http://en.wikipedia.org/wiki/Salon_&#40;gathering&#41;](17th century salon) up in hurrr.
         - Delicious homemade foodstuffs. That's right, Sassy Pgh is <del>the only Pittsburgh</del> <del>the only Sass</del> the only meetup anywhere that comes with gourmet provisions fashioned by the hands of the organizers them/ourselves. Take out pizza is *over*. <small>(also, BYOB)</small>.
 
 - Resources
