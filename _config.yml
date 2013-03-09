@@ -4,3 +4,8 @@ description: "The online home of Pittsburgh's Sass, Compass, and Front End Devel
 url: "http://localhost:4000"
 
 permalink: pretty
+
+# Google Analytics
+
+google_analytics:
+  account: UA-39143754-1
