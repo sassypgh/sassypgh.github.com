@@ -17,7 +17,7 @@ sassypgh.github.com
     - General Description
         - <p>Sassy PGH is a meetup for friendly Pittsburgh developers to talk shop about Sass, Compass, and other sweet stuff happening in the front end coding world.</p><p>Meetups are **6:30 to 8pm** on the **first Wednesday of every month**. Get ready for:</p>
         - One twenty minute presentation. That's right, 20 minutes. Quality over quantity. You will leave knowing one thing better than you did when you got here.
-        - A whole bunch of chatting. About the presentation, awesome things we're building, code conundrums, and/or the fundamental nature of the web. It's a damn [17th century salon](http://en.wikipedia.org/wiki/Salon_(gathering)) up in hurrr.
+        - A whole bunch of chatting. About the presentation, awesome things we're building, code conundrums, and/or the fundamental nature of the web. It's a damn <a href="http://en.wikipedia.org/wiki/Salon_(gathering)">Salon</a> up in hurrr.
         - Delicious homemade foodstuffs. That's right, Sassy Pgh is <del>the only Pittsburgh</del> <del>the only Sass</del> the only meetup anywhere that comes with gourmet provisions fashioned by the hands of the organizers them/ourselves. Take out pizza is *over*. <small>(also, BYOB)</small>.
 
 - Resources
